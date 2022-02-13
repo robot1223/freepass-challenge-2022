@@ -34,6 +34,8 @@ Ketentuan : OS yang digunakan wajib GNU/Linux non-GUI, VM dan semua service haru
 
 11. Upload source code dan write up ke repositori GitHub atau alternatif lainnya.
 
+12. Kumpulkan link github ke form berikut https://docs.google.com/forms/d/e/1FAIpQLScU2ggOcI6Uw_UNr2m5cvlJZMtvu3_zs_IC-CeK74XB0Zg0ag/viewform
+
 ---
 
 ### **Catatan**:
