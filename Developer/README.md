@@ -13,10 +13,10 @@ TEMA dari project wajib memilih salah satu dari:
 
 Ketentuan :
 - Dikerjakan secara individu. 
-- Fitur-fitur yang dibuat bebas dan sesuai kreativitas dengan syarat harus sesuai tema yang dipilih.
+- Fitur-fitur yang dibuat bebas dan sesuai kreativitas dengan syarat harus sesuai tema yang dipilih
 - Bahasa pemrograman yang digunakan bebas (disarankan JS untuk back-end)
 - Mematuhi aturan lisensi apabila menggunakan kode sumber eksternal
-- Bebas menggunakan framework/library (disarankan React untuk FE, Express untuk BE, dan React Native untuk mobile
+- Bebas menggunakan framework/library (disarankan React untuk FE, Express untuk BE, dan React Native untuk mobile)
 
 Pengumpulan : 
 - Project diupload ke github/gitlab dengan repository public dan dipresentasikan saat tes wawancara
