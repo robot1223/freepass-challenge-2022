@@ -19,7 +19,7 @@ Ketentuan :
 - Bebas menggunakan framework/library (disarankan React untuk FE, Express untuk BE, dan React Native untuk mobile)
 
 Pengumpulan : 
-- Project diupload ke github/gitlab dengan repository public dan dipresentasikan saat tes wawancara
+- Project diupload ke github/gitlab dengan repository public dan nantinya akan dipresentasikan sesuai jadwal yang ditentukan panitia
 - Pengumpulan form berikut https://forms.gle/HWVaiRDFLnrufk9n9
 
 ---
